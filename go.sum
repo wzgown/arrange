@@ -1,0 +1,4 @@
+github.com/rwcarlsen/goexif v0.0.0-20190401172101-9e8deecbddbd h1:CmH9+J6ZSsIjUK3dcGsnCnO41eRBOnY12zwkn5qVwgc=
+github.com/rwcarlsen/goexif v0.0.0-20190401172101-9e8deecbddbd/go.mod h1:hPqNNc0+uJM6H+SuU8sEs5K5IQeKccPqeSjfgcKGgPk=
+github.com/vinymeuh/nifuda v0.0.0-20190819150220-250b5c3e859f h1:XP824+ToSae0gNk+WCF842ADer/PEya9saPhfXdmgPo=
+github.com/vinymeuh/nifuda v0.0.0-20190819150220-250b5c3e859f/go.mod h1:rczAD0M7QTu29gsTE3RMcRttHbiP+rTyMKZFAKxL7FY=
